@@ -1,0 +1,3 @@
+$ git clone https://github.com/alexanderteale/Embedded_Project.git   
+$ cd ./Embedded_Project 
+$ ./bootstrap.sh    
